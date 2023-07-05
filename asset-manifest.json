@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shortest_Path_Visualiser/static/css/main.ebc7652d.css",
+    "main.js": "/Shortest_Path_Visualiser/static/js/main.1fc355a8.js",
+    "static/js/787.0c5e9af9.chunk.js": "/Shortest_Path_Visualiser/static/js/787.0c5e9af9.chunk.js",
+    "index.html": "/Shortest_Path_Visualiser/index.html",
+    "main.ebc7652d.css.map": "/Shortest_Path_Visualiser/static/css/main.ebc7652d.css.map",
+    "main.1fc355a8.js.map": "/Shortest_Path_Visualiser/static/js/main.1fc355a8.js.map",
+    "787.0c5e9af9.chunk.js.map": "/Shortest_Path_Visualiser/static/js/787.0c5e9af9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc7652d.css",
+    "static/js/main.1fc355a8.js"
+  ]
+}
